@@ -1,0 +1,76 @@
+.bar1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    justify-content: space-around;
+    display: flex;
+    border-radius: 20px;
+    font-size: xx-large;
+    margin: 50px;
+    cursor: pointer;
+}
+
+
+.bar2 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    border-radius: 20px;
+    font-size: xx-large;
+    margin: 30px;
+    align-items: center;
+    text-align: center;
+}
+.bar3 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    border-radius: 20px;
+    font-size: xx-large;
+    margin: 30px;
+    align-items: center;
+    text-align: center;
+}
+.container-1{ 
+     border:1px solid;
+    /* padding:5px; */
+    margin:40px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+.container-2{
+    border:1px solid;
+    /* padding:5px; */
+    margin:40px;
+     box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+.container-3{
+    border:1px solid;
+    /* padding:5px; */
+    margin:40px;
+     box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+
+  .nav-bar:hover {
+      background-color: white;
+      color: black;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+ .nav-bar2:hover {
+      background-color: white;
+      color: black;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+
+ .nav-bar3:hover {
+      background-color: white;
+      color: black;
+      border-radius: 10px;
+      cursor: pointer;
+    }
